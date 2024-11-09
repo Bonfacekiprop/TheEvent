@@ -1687,4 +1687,10 @@ section,
 --------------------------------------------------------------*/
 .starter-section {
   /* Add your styles here */
+  font-size: 1.5em;
+}
+
+.starter-section button:hover .stars{
+  display: block;
+  filter: drop-shadow(0 0 10px #fffdef);
 }

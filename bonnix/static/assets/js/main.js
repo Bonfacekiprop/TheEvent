@@ -136,7 +136,6 @@
       faqItem.parentNode.classList.toggle('faq-active');
     });
   });
-
   /**
    * Correct scrolling position upon page load for URLs containing hash links.
    */
